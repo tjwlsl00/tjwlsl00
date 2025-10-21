@@ -23,8 +23,8 @@
     <tr>
       <td align="center"><b>🚀 Main (Game Dev)</b></td>
       <td>
-        <img src="https://img.shields.io/badge/c%23-239120?style=flat-square&logo=c%23&logoColor=white"/>
         <img src="https://img.shields.io/badge/unity-000?style=flat-square&logo=unity&logoColor=white"/>
+        <img src="https://img.shields.io/badge/c%23-239120?style=flat-square&logo=c%23&logoColor=white"/>
       </td>
     </tr>
     <tr>
