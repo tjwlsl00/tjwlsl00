@@ -10,7 +10,7 @@
   
   ## 👀 About Me
   <h4>:mortar_board: Studying Programming at Digital Hollywood University</h4>
-  <h4>:raising_hand: I am a passionate student from South Korea.</h4>
+  <h4>:raising_hand: I am from South Korea.</h4>
   <h4>:video_game: Actively participating in the Game Development Seminar.</h4>
   <h4>:fire: My goal is to become a game developer specializing in C# and C++.</h4>
 
