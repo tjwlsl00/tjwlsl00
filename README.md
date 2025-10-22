@@ -39,6 +39,27 @@
   </table>
 
   <br/>
+  
+  ## 🎮 My Projects
+  <p>
+    <a href="https://github.com/tjwlsl00/Throne-of-Ruins">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjwlsl00&repo=Throne-of-Ruins&theme=dracula" alt="Project 1" />
+    </a>
+    <a href="https://github.com/tjwlsl00/Hasire-Haru-chan
+">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjwlsl00&repo=Hasire-Haru-chan&theme=dracula" alt="Project 2" />
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/tjwlsl00/yusya-morito">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjwlsl00&repo=yusya-morito&theme=dracula" alt="Project 3" />
+    </a>
+    <a href="https://github.com/tjwlsl00/mamaga-miteiru">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjwlsl00&repo=mamaga-miteiru&theme=dracula" alt="Project 4" />
+    </a>
+  </p>
+
+<br/>
 
   ## 📊 My GitHub Stats
   <p>
@@ -46,6 +67,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjwlsl00&layout=compact&theme=dracula" alt="Top Languages" />
   </p>
   <br/>
+
+  
   
  
 
