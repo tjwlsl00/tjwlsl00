@@ -58,6 +58,11 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjwlsl00&repo=mamaga-miteiru&theme=dracula" alt="Project 4" />
     </a>
   </p>
+   <p>
+    <a href="https://github.com/tjwlsl00/Tasukete-Purun">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjwlsl00&repo=Tasukete-Purun&theme=dracula" alt="Project 5" />
+    </a>
+  </p>
 
 <br/>
 
