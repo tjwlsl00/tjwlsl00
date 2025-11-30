@@ -62,10 +62,10 @@
 
   <br/>
 
-  <h2>📊 My GitHub Stats</h2>
+  <div align="center">
+  <h3>📊 My GitHub Stats</h3>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=tjwlsl00&show_icons=true&theme=dracula" alt="GitHub Stats" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjwlsl00&layout=compact&theme=dracula" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=tjwlsl00&show_icons=true&theme=dracula&count_private=true" height="180px" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjwlsl00&layout=compact&theme=dracula&hide_border=true" height="180px" alt="Top Languages" />
   </p>
 </div>
