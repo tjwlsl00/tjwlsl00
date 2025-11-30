@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97" width="100%" />
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)" width="100%" />
 
 <h2>👀 About Me</h2>
 <h4>:mortar_board: Studying Programming at Digital Hollywood University</h4>
@@ -15,17 +15,17 @@
   <tr>
     <td align="center"><b>🚀 Main (Game Dev)</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+      <img src="[https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)"/>
+      <img src="[https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>🌱 Learning & Others</b></td>
     <td>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+      <img src="[https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)"/>
+      <img src="[https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)"/>
+      <img src="[https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)"/>
+      <img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)"/>
     </td>
   </tr>
 </table>
@@ -33,6 +33,9 @@
 <br/>
 
 <h2>🎮 My Projects</h2>
+<p>
+  <b>Check out my game development projects!</b>
+</p>
 
 <table>
   <thead>
@@ -45,64 +48,71 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://github.com/tjwlsl00/Throne-of-Ruins">
+        <a href="[https://github.com/tjwlsl00/Throne-of-Ruins](https://github.com/tjwlsl00/Throne-of-Ruins)">
           <b>🏰 Throne-of-Ruins</b>
         </a>
       </td>
-      <td>유니티로 개발한 액션 프로젝트입니다. (설명을 수정해주세요)</td>
+      <td>A 3D Action RPG solo project.</td>
       <td>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+        <img src="[https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)"/>
+        <img src="[https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)"/>
       </td>
     </tr>
 
     <tr>
       <td>
-        <a href="https://github.com/tjwlsl00/Hasire-Haru-chan">
+        <a href="[https://github.com/tjwlsl00/Hasire-Haru-chan](https://github.com/tjwlsl00/Hasire-Haru-chan)">
           <b>🏃‍♀️ Hasire-Haru-chan</b>
         </a>
       </td>
-      <td>달리기 게임 프로젝트입니다. (설명을 수정해주세요)</td>
+      <td>A running action game project.</td>
       <td>
-        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+        <img src="[https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)"/>
       </td>
     </tr>
 
     <tr>
       <td>
-        <a href="https://github.com/tjwlsl00/yusya-morito">
+        <a href="[https://github.com/tjwlsl00/yusya-morito](https://github.com/tjwlsl00/yusya-morito)">
           <b>🌳 yusya-morito</b>
         </a>
       </td>
-      <td>용사 모리토 관련 프로젝트입니다. (설명을 수정해주세요)</td>
+      <td>Hero Morito adventure project.</td>
       <td>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+        <img src="[https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)"/>
       </td>
     </tr>
 
     <tr>
       <td>
-        <a href="https://github.com/tjwlsl00/mamaga-miteiru">
+        <a href="[https://github.com/tjwlsl00/mamaga-miteiru](https://github.com/tjwlsl00/mamaga-miteiru)">
           <b>👀 mamaga-miteiru</b>
         </a>
       </td>
-      <td>'엄마가 보고있다' 게임 프로젝트입니다. (설명을 수정해주세요)</td>
+      <td>Stealth game project "Mom is Watching".</td>
       <td>
-        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+        <img src="[https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)"/>
       </td>
     </tr>
 
     <tr>
       <td>
-        <a href="https://github.com/tjwlsl00/Tasukete-Purun">
+        <a href="[https://github.com/tjwlsl00/Tasukete-Purun](https://github.com/tjwlsl00/Tasukete-Purun)">
           <b>🍮 Tasukete-Purun</b>
         </a>
       </td>
-      <td>'살려줘 푸딩' 게임 프로젝트입니다. (설명을 수정해주세요)</td>
+      <td>Casual puzzle game "Help Purun".</td>
       <td>
-        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+        <img src="[https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)"/>
       </td>
     </tr>
   </tbody>
 </table>
 
+<br/>
+
+<h3>📊 My GitHub Stats</h3>
+<p>
+  <img src="[https://github-readme-stats.vercel.app/api?username=tjwlsl00&show_icons=true&theme=dracula&count_private=true](https://github-readme-stats.vercel.app/api?username=tjwlsl00&show_icons=true&theme=dracula&count_private=true)" height="180px" alt="GitHub Stats" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=tjwlsl00&layout=compact&theme=dracula&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=tjwlsl00&layout=compact&theme=dracula&hide_border=true)" height="180px" alt="Top Languages" />
+</p>
