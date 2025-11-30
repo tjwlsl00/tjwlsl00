@@ -34,27 +34,78 @@
 
 <h2>🎮 My Projects</h2>
 <p>
-  <a href="https://github.com/tjwlsl00/Throne-of-Ruins">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjwlsl00&repo=Throne-of-Ruins&theme=dracula" alt="Project 1" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/tjwlsl00/Hasire-Haru-chan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjwlsl00&repo=Hasire-Haru-chan&theme=dracula" alt="Project 2" />
-  </a>
-</p>
-<p>
-  <a href="https://github.com/tjwlsl00/yusya-morito">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjwlsl00&repo=yusya-morito&theme=dracula" alt="Project 3" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/tjwlsl00/mamaga-miteiru">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjwlsl00&repo=mamaga-miteiru&theme=dracula" alt="Project 4" />
-  </a>
-</p>
-<p>
-  <a href="https://github.com/tjwlsl00/Tasukete-Purun">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjwlsl00&repo=Tasukete-Purun&theme=dracula" alt="Project 5" />
-  </a>
+  <b>이미지 로딩 오류 없이 깔끔하게 정리된 프로젝트 목록입니다.</b>
 </p>
 
-<br/>
+<table>
+  <thead>
+    <tr>
+      <th width="30%">Project Name</th>
+      <th width="50%">Description</th>
+      <th width="20%">Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/tjwlsl00/Throne-of-Ruins">
+          <b>🏰 Throne-of-Ruins</b>
+        </a>
+      </td>
+      <td>유니티로 개발한 액션 프로젝트입니다. (설명을 수정해주세요)</td>
+      <td>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+      </td>
+    </tr>
+
+    <tr>
+      <td>
+        <a href="https://github.com/tjwlsl00/Hasire-Haru-chan">
+          <b>🏃‍♀️ Hasire-Haru-chan</b>
+        </a>
+      </td>
+      <td>달리기 게임 프로젝트입니다. (설명을 수정해주세요)</td>
+      <td>
+        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+      </td>
+    </tr>
+
+    <tr>
+      <td>
+        <a href="https://github.com/tjwlsl00/yusya-morito">
+          <b>🌳 yusya-morito</b>
+        </a>
+      </td>
+      <td>용사 모리토 관련 프로젝트입니다. (설명을 수정해주세요)</td>
+      <td>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+      </td>
+    </tr>
+
+    <tr>
+      <td>
+        <a href="https://github.com/tjwlsl00/mamaga-miteiru">
+          <b>👀 mamaga-miteiru</b>
+        </a>
+      </td>
+      <td>'엄마가 보고있다' 게임 프로젝트입니다. (설명을 수정해주세요)</td>
+      <td>
+        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+      </td>
+    </tr>
+
+    <tr>
+      <td>
+        <a href="https://github.com/tjwlsl00/Tasukete-Purun">
+          <b>🍮 Tasukete-Purun</b>
+        </a>
+      </td>
+      <td>'살려줘 푸딩' 게임 프로젝트입니다. (설명을 수정해주세요)</td>
+      <td>
+        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
