@@ -58,6 +58,13 @@
       </a>
     </td>
   </tr>
+  <tr>
+   <td align="center" width="50%">
+      <a href="https://github.com/tjwlsl00/Tasukete-Purun">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=tjwlsl00&repo=Tasukete-Purun&theme=dracula" alt="Tasukete-Purun" />
+      </a>
+    </td>
+  </tr>
 </table>
 <br/>
 
