@@ -8,18 +8,16 @@
 <br/>
 
 <h2>🛠️ プログラミング技術</h2>
-<p>現在、主なゲーム開発はUnityEngine（ｃ＃）を使います。</p>
-
 <table>
   <tr>
-    <td align="center"><b>🚀 Main (Game Dev)</b></td>
+    <td align="center"><b>🚀 主（ゲーム開発）</b></td>
     <td>
       <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>🌱 Learning & Others</b></td>
+    <td align="center"><b>🌱勉強</b></td>
     <td>
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
