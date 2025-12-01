@@ -1,14 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97" width="100%" />
 
-<h2>👀 About Me</h2>
-<h4>:mortar_board: Studying Programming at Digital Hollywood University</h4>
-<h4>:raising_hand: I am from South Korea.</h4>
-<h4>:video_game: Actively participating in the Game Development Seminar.</h4>
-<h4>:fire: My goal is to become a game developer specializing in C# and C++.</h4>
+<h2>👀 私について</h2>
+<h4>:video_game: デジタルハリウッド大学でプログラミング専攻、ゲーム制作ゼミ所属</h4>
+<h4>:raising_hand: 韓国から参りました。</h4>
+<h4>:fire: C#とC++言語を使ったゲームプログラマーを目指してます。</h4>
 
 <br/>
 
-<h2>🛠️ My Tech Stack</h2>
+<h2>🛠️ プログラミング技術</h2>
 <p>My main focus is on <b>Game Development</b> using <b>C#</b> and <b>Unity</b>.</p>
 
 <table>
@@ -31,7 +30,7 @@
 </table>
 <br/>
 
-## 🎮 My Projects
+## 🎮 プロジェクト
 - **[廃虚の王座／2D RPG](https://github.com/tjwlsl00/Throne-of-Ruins)**
 - **[走れ！はるちゃん／3D Racing](https://github.com/tjwlsl00/Hasire-Haru-chan)** 
 - **[勇者：守人／2D Tower Defense](https://github.com/tjwlsl00/yusya-morito)** 
