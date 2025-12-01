@@ -32,8 +32,8 @@
 <br/>
 
 ## 🎮 My Projects
-- **[廃虚の王座](https://github.com/tjwlsl00/Throne-of-Ruins)** - RPG(2D)
-- **[走れ！はるちゃん](https://github.com/tjwlsl00/Hasire-Haru-chan)** - Racing(3D) 
-- **[勇者：守人](https://github.com/tjwlsl00/yusya-morito)** - Tower Defense(2D)
-- **[ママが見ている](https://github.com/tjwlsl00/mamaga-miteiru)** - Cleaning(3D)
-- **[助けて、プルン！](https://github.com/tjwlsl00/Tasukete-Purun)** - Escape(2D)
+- **[廃虚の王座(2D)](https://github.com/tjwlsl00/Throne-of-Ruins)**
+- **[走れ！はるちゃん(3D)](https://github.com/tjwlsl00/Hasire-Haru-chan)** 
+- **[勇者：守人(2D)](https://github.com/tjwlsl00/yusya-morito)** 
+- **[ママが見ている(3D)](https://github.com/tjwlsl00/mamaga-miteiru)** 
+- **[助けて、プルン！(2D)](https://github.com/tjwlsl00/Tasukete-Purun)** 
