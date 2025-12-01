@@ -32,10 +32,9 @@
 <br/>
 
 ## 🎮 My Projects
-[![Throne of Ruins](https://img.shields.io/badge/Project-Throne%20of%20Ruins-red?style=flat-square&logo=github)](https://github.com/tjwlsl00/Throne-of-Ruins)
-[![Hasire Haru-chan](https://img.shields.io/badge/Project-Hasire%20Haru--chan-orange?style=flat-square&logo=github)](https://github.com/tjwlsl00/Hasire-Haru-chan)
-[![Yusya Morito](https://img.shields.io/badge/Project-Yusya%20Morito-yellow?style=flat-square&logo=github)](https://github.com/tjwlsl00/yusya-morito)
-[![Mamaga Miteiru](https://img.shields.io/badge/Project-Mamaga%20Miteiru-green?style=flat-square&logo=github)](https://github.com/tjwlsl00/mamaga-miteiru)
+[![Throne of Ruins](https://img.shields.io/badge/Project-Throne%20of%20Ruins-red?style=flat-square&logo=github)](https://github.com/tjwlsl00/Throne-of-Ruins)<br>
+[![Hasire Haru-chan](https://img.shields.io/badge/Project-Hasire%20Haru--chan-orange?style=flat-square&logo=github)](https://github.com/tjwlsl00/Hasire-Haru-chan)<br>
+[![Yusya Morito](https://img.shields.io/badge/Project-Yusya%20Morito-yellow?style=flat-square&logo=github)](https://github.com/tjwlsl00/yusya-morito)<br>
+[![Mamaga Miteiru](https://img.shields.io/badge/Project-Mamaga%20Miteiru-green?style=flat-square&logo=github)](https://github.com/tjwlsl00/mamaga-miteiru)<br>
 [![Tasukete-Purun](https://img.shields.io/badge/Project-Tasukete%20Purun-blue?style=flat-square&logo=github)](https://github.com/tjwlsl00/Tasukete-Purun)
-<br/>
 
