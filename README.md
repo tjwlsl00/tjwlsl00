@@ -32,9 +32,9 @@
 <br/>
 
 ## 🎮 My Projects
-**[廃虚の王座](https://github.com/tjwlsl00/Throne-of-Ruins)** - Description here
-**[走れ！はるちゃん](https://github.com/tjwlsl00/Hasire-Haru-chan)** - Description here
-**[勇者：守人](https://github.com/tjwlsl00/yusya-morito)** - Description here
-**[ママが見ている](https://github.com/tjwlsl00/mamaga-miteiru)** - Description here
-**[助けて、プルン！](https://github.com/tjwlsl00/Tasukete-Purun)** - Description here
+-**[廃虚の王座](https://github.com/tjwlsl00/Throne-of-Ruins)** - Description here
+-**[走れ！はるちゃん](https://github.com/tjwlsl00/Hasire-Haru-chan)** - Description here
+-**[勇者：守人](https://github.com/tjwlsl00/yusya-morito)** - Description here
+-**[ママが見ている](https://github.com/tjwlsl00/mamaga-miteiru)** - Description here
+-**[助けて、プルン！](https://github.com/tjwlsl00/Tasukete-Purun)** - Description here
 
