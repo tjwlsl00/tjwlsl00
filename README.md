@@ -33,29 +33,32 @@
 <br/>
 
 <h2>🎮 My Projects</h2>
-<p>
-  <a href="https://github.com/tjwlsl00/Throne-of-Ruins">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjwlsl00&repo=Throne-of-Ruins&theme=dracula" alt="Project 1" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/tjwlsl00/Hasire-Haru-chan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjwlsl00&repo=Hasire-Haru-chan&theme=dracula" alt="Project 2" />
-  </a>
-</p>
-<p>
-  <a href="https://github.com/tjwlsl00/yusya-morito">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjwlsl00&repo=yusya-morito&theme=dracula" alt="Project 3" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/tjwlsl00/mamaga-miteiru">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjwlsl00&repo=mamaga-miteiru&theme=dracula" alt="Project 4" />
-  </a>
-</p>
-<p>
-  <a href="https://github.com/tjwlsl00/Tasukete-Purun">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjwlsl00&repo=Tasukete-Purun&theme=dracula" alt="Project 5" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/tjwlsl00/Throne-of-Ruins">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjwlsl00&repo=Throne-of-Ruins&theme=dracula" alt="Throne-of-Ruins" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/tjwlsl00/Hasire-Haru-chan">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjwlsl00&repo=Hasire-Haru-chan&theme=dracula" alt="Hasire-Haru-chan" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/tjwlsl00/yusya-morito">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjwlsl00&repo=yusya-morito&theme=dracula" alt="yusya-morito" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/tjwlsl00/mamaga-miteiru">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjwlsl00&repo=mamaga-miteiru&theme=dracula" alt="mamaga-miteiru" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
