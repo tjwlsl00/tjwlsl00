@@ -33,32 +33,31 @@
 <br/>
 
 <h2>🎮 My Projects</h2>
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/tjwlsl00/Throne-of-Ruins">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjwlsl00&repo=Throne-of-Ruins&theme=dracula" alt="Throne-of-Ruins" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=tjwlsl00&repo=Throne-of-Ruins&theme=dracula" alt="Throne-of-Ruins" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/tjwlsl00/Hasire-Haru-chan">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjwlsl00&repo=Hasire-Haru-chan&theme=dracula" alt="Hasire-Haru-chan" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=tjwlsl00&repo=Hasire-Haru-chan&theme=dracula" alt="Hasire-Haru-chan" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/tjwlsl00/yusya-morito">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjwlsl00&repo=yusya-morito&theme=dracula" alt="yusya-morito" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=tjwlsl00&repo=yusya-morito&theme=dracula" alt="yusya-morito" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/tjwlsl00/mamaga-miteiru">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjwlsl00&repo=mamaga-miteiru&theme=dracula" alt="mamaga-miteiru" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=tjwlsl00&repo=mamaga-miteiru&theme=dracula" alt="mamaga-miteiru" />
       </a>
     </td>
   </tr>
 </table>
-
 <br/>
 
