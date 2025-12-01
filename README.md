@@ -32,9 +32,9 @@
 <br/>
 
 ## 🎮 My Projects
-[![Throne of Ruins](https://img.shields.io/badge/Project-Throne%20of%20Ruins-red?style=flat-square&logo=github)](https://github.com/tjwlsl00/Throne-of-Ruins)<br>
-[![Hasire Haru-chan](https://img.shields.io/badge/Project-Hasire%20Haru--chan-orange?style=flat-square&logo=github)](https://github.com/tjwlsl00/Hasire-Haru-chan)<br>
-[![Yusya Morito](https://img.shields.io/badge/Project-Yusya%20Morito-yellow?style=flat-square&logo=github)](https://github.com/tjwlsl00/yusya-morito)<br>
-[![Mamaga Miteiru](https://img.shields.io/badge/Project-Mamaga%20Miteiru-green?style=flat-square&logo=github)](https://github.com/tjwlsl00/mamaga-miteiru)<br>
-[![Tasukete-Purun](https://img.shields.io/badge/Project-Tasukete%20Purun-blue?style=flat-square&logo=github)](https://github.com/tjwlsl00/Tasukete-Purun)
+**[廃虚の王座](https://github.com/tjwlsl00/Throne-of-Ruins)** - Description here
+**[走れ！はるちゃん](https://github.com/tjwlsl00/Hasire-Haru-chan)** - Description here
+**[勇者：守人](https://github.com/tjwlsl00/yusya-morito)** - Description here
+**[ママが見ている](https://github.com/tjwlsl00/mamaga-miteiru)** - Description here
+**[助けて、プルン！](https://github.com/tjwlsl00/Tasukete-Purun)** - Description here
 
