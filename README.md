@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=初めまして" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=初めまして！" width="100%" />
 
 <h2>👀 自己紹介</h2>
 <h4>:raising_hand: 名前はパクソジンと申します。韓国から参りました！</h4>
