@@ -8,7 +8,7 @@
 <br/>
 
 <h2>🛠️ プログラミング技術</h2>
-<p>My main focus is on <b>Game Development</b> using <b>C#</b> and <b>Unity</b>.</p>
+<p>現在、主なゲーム開発はUnityEngine（ｃ＃）を使います。</p>
 
 <table>
   <tr>
