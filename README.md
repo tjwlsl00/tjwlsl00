@@ -3,7 +3,7 @@
 <h2>👀 自己紹介</h2>
 <h4>:raising_hand: 名前はパクソジンと申します。韓国から参りました！</h4>
 <h4>:video_game: デジタルハリウッド大学でプログラミング専攻し、ゲーム制作ゼミ所属してゲーム開発をしています。</h4>
-<h4>:fire: ゲームプログラマーを目指してます。現在のところはUnityEngine（ｃ＃）を使ってます。</h4>
+<h4>:fire: ゲームプログラマーを目指してます。現在のところはUnityEngine（ｃ＃）を使っています。</h4>
 
 <br/>
 
@@ -17,7 +17,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>🌱勉強</b></td>
+    <td align="center"><b>🌱学習＆その他</b></td>
     <td>
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
