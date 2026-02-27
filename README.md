@@ -34,4 +34,4 @@
 - **[勇者：守人／2D Tower Defense](https://github.com/tjwlsl00/yusya-morito)** 
 - **[ママが見ている／3D Cleaning](https://github.com/tjwlsl00/mamaga-miteiru)** 
 - **[助けて、プルン！／2D Escape](https://github.com/tjwlsl00/Tasukete-Purun)**
-- **[ゆきむいて、ホイ！／3D Snowball Battle](https://github.com/tjwlsl00/Yukimuite-Hoi)**
+- **[寒ライバル／3D An Event Competition](https://github.com/tjwlsl00/SamuRival)**
