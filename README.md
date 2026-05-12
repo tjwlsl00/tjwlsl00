@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=パクソジンと申します。よろしくお願いいたします！" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text="　初めまして！ width="100%" />
 
 <h2>👀 自己紹介</h2>
-<h4>:raising_hand: </h4>
+<h4>:raising_hand: パクソジンと申します。よろしくお願いいたします！ </h4>
 <h4>:video_game: デジタルハリウッド大学　デジタルコンテンツ学科「ゲーム製作ゼミ」所属です。</h4>
 <h4>:fire: 主なゲーム開発はUnityEngineで行ております。</h4>
 
