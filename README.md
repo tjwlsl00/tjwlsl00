@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=初めまして！" width="100%" />
 
 <h2>👀 自己紹介</h2>
-<h4>:raising_hand: 名前はパクソジンと申します。韓国から参りました！</h4>
-<h4>:video_game: デジタルハリウッド大学でプログラミング専攻し、ゲーム制作ゼミ所属してゲーム開発をしています。</h4>
-<h4>:fire: ゲームプログラマーを目指してます。現在のところはUnityEngine（ｃ＃）を使っています。</h4>
+<h4>:raising_hand: パクソジンと申します。よろしくお願いいたします！</h4>
+<h4>:video_game: デジタルハリウッド大学「ゲーム製作ゼミ」所属</h4>
+<h4>:fire: 主なゲーム開発はUnityゲーム製作Engineで行ております。</h4>
 
 <br/>
 
