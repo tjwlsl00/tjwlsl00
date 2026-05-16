@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=初めまして！" width="100%" />
 
-## 👀 自己紹介 (Profile)
-
+## 👀 自己紹介
 | 項目 | 内容 |
 | :---: | :--- |
 | ✋ **名前** | **パクソジン**と申します。よろしくお願いいたします！ |
