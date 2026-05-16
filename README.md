@@ -29,10 +29,10 @@
 <br/>
 
 ## 🎮 プロジェクト
-- **[助けて、プルン！／2D Escape](https://github.com/tjwlsl00/Tasukete-Purun)**
-- **[寒ライバル／3D An Event Competition](https://github.com/tjwlsl00/SamuRival)**
-- **[走れ！はるちゃん／3D Racing](https://github.com/tjwlsl00/Hasire-Haru-chan)** 
-- **[勇者：守人／2D Tower Defense](https://github.com/tjwlsl00/yusya-morito)**
-- **[廃虚の王座／2D RPG](https://github.com/tjwlsl00/Throne-of-Ruins)**
-- **[ママが見ている／3D Cleaning](https://github.com/tjwlsl00/mamaga-miteiru)** 
+- **[助けて、プルン！](https://github.com/tjwlsl00/Tasukete-Purun)**
+- **[寒ライバル](https://github.com/tjwlsl00/SamuRival)**
+- **[走れ！はるちゃん](https://github.com/tjwlsl00/Hasire-Haru-chan)** 
+- **[勇者：守人](https://github.com/tjwlsl00/yusya-morito)**
+- **[廃虚の王座](https://github.com/tjwlsl00/Throne-of-Ruins)**
+- **[ママが見ている](https://github.com/tjwlsl00/mamaga-miteiru)** 
 
