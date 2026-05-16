@@ -12,7 +12,7 @@
 ## 🛠️ プログラミング</h2>
 <table>
   <tr>
-    <td align="center"><b>🚀 主（ゲーム開発）</b></td>
+    <td align="center"><b>🚀主（ゲーム開発）</b></td>
     <td>
       <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
