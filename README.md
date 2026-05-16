@@ -19,7 +19,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>🌱学習＆その他</b></td>
+    <td align="center"><b>🌱学習</b></td>
     <td>
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
