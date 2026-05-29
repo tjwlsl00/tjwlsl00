@@ -29,24 +29,14 @@
 </table>
 <br/>
 
-## 🎮 Main Projects
+## 🎮 メインプロジェクト
 *技術的スキルと完成度を重視した主要プロジェクトです。*
 
-* **[寒ライバル (SamuRival)](https://github.com/tjwlsl00/SamuRival)**
-    * **Role:** Lead Programmer & Designer
-    * **Tech:** `Unity` `C#` `DOTween` `Cinemachine`
-    * **Highlight:** リアルタイム雪合戦アクション、ダイナミックなカメラ演出および物理システム最適化。
-
-* **[助けて、プルン！ (Tasukete-Purun)](https://github.com/tjwlsl00/Tasukete-Purun)**
-    * **Role:** Solo Developer
-    * **Tech:** `Unity` `ShaderGraph` `2D Physics`
-    * **Highlight:** Shader Graphを用いた独自の視覚効果および物理ベースのパズルメカニズム設計。
-
-* **[走れ！はるちゃん (Hasire-Haru-chan)](https://github.com/tjwlsl00/Hasire-Haru-chan)**
-    * **Role:** Lead Programmer
-    * **Tech:** `Unity` `C#` `State Pattern`
-    * **Highlight:** ステートパターン(State Pattern)を活用したキャラクター制御および安定した操作感の実装。
-
+* **[助けて、プルン！ (Tasukete-Purun)](https://github.com/tjwlsl00/Tasukete-Purun)**　
+   
+* **[寒ライバル (SamuRival)](https://github.com/tjwlsl00/SamuRival)**　
+    
+* **[走れ！はるちゃん (Hasire-Haru-chan)](https://github.com/tjwlsl00/Hasire-Haru-chan)**　
 ---
 
 ## 📂 Archive
