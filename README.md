@@ -8,7 +8,7 @@
 | 🔥 **スキル** | 主なゲーム開発は**Unity** ゲーム制作Engineで行っております！ |
 <br/>
 
-## 🛠️ プログラミング</h2>
+## 🛠️ プログラミングスタック</h2>
 <table>
   <tr>
     <td align="center"><b>🚀主（ゲーム開発）</b></td>
@@ -29,7 +29,7 @@
 </table>
 <br/>
 
-## 🎮 プロジェクト
+## 🎮 進行プロジェクト
 
 - **[助けて、プルン！](https://github.com/tjwlsl00/Tasukete-Purun)**
 
