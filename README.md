@@ -29,19 +29,16 @@
 </table>
 <br/>
 
-## 🎮 メインプロジェクト
-*技術的スキルと完成度を重視した主要プロジェクトです。*
+## 🎮 プロジェクト
 
-* **[助けて、プルン！ (Tasukete-Purun)](https://github.com/tjwlsl00/Tasukete-Purun)**　
-   
-* **[寒ライバル (SamuRival)](https://github.com/tjwlsl00/SamuRival)**　
-    
-* **[走れ！はるちゃん (Hasire-Haru-chan)](https://github.com/tjwlsl00/Hasire-Haru-chan)**　
----
+- **[助けて、プルン！](https://github.com/tjwlsl00/Tasukete-Purun)**
 
-## 📂 Archive
-*学習・実験・過去のプロジェクト経験をまとめたリポジトリです。*
+- **[寒ライバル](https://github.com/tjwlsl00/SamuRival)**
 
-* **[勇者：守人](https://github.com/tjwlsl00/yusya-morito)** | RPG / リファクタリング経験
-* **[廃虚の王座](https://github.com/tjwlsl00/Throne-of-Ruins)** | レガシーコードのリメイク
-* **[ママが見ている](https://github.com/tjwlsl00/mamaga-miteiru)** | プロトタイプ / 実験的な試み
+- **[走れ！はるちゃん](https://github.com/tjwlsl00/Hasire-Haru-chan)** 
+
+- **[勇者：守人](https://github.com/tjwlsl00/yusya-morito)**
+
+- **[廃虚の王座](https://github.com/tjwlsl00/Throne-of-Ruins)**
+
+- **[ママが見ている](https://github.com/tjwlsl00/mamaga-miteiru)** 
