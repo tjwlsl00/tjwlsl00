@@ -33,7 +33,7 @@
 
 - **[助けて、プルン！](https://github.com/tjwlsl00/Tasukete-Purun)**
 
-- **[寒ライバル](https://github.com/tjwlsl00/SamuRival)**
+- **[寒ライバル／開発中](https://github.com/tjwlsl00/SamuRival)**
 
 - **[走れ！はるちゃん](https://github.com/tjwlsl00/Hasire-Haru-chan)** 
 
