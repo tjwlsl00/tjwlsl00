@@ -31,7 +31,7 @@
 </table>
 <br/>
 
-## 🎮 進行プロジェクト
+## 🎮 プロジェクト
 
 - **[助けて、プルン！](https://github.com/tjwlsl00/Tasukete-Purun)**
 
