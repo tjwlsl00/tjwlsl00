@@ -1,12 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=初めまして！" width="100%" />
 
-## 👀 自己紹介
-| 項目 | 内容 |
-| :---: | :--- |
-| ✋ **名前** | **パクソジン**と申します。よろしくお願いいたします！ |
-| 🎓 **所属** | **デジタルハリウッド大学** **デジタルコンテンツ学科** **ゲーム製作ゼミ** |
-| 🔥 **スキル** | 主なゲーム開発は**Unity** ゲーム制作Engineで行っております！ |
-<br/>
+<h2>👀 自己紹介</h2>
+
+<h4>:raising_hand: 이름。よろしくお願いいたします！ </h4>
+
+<h4>:video_game: 대학 학과 「ゲーム製作ゼミ」所属です。</h4>
+
+<h4>:fire: 主なゲーム開発はUnityゲーム制作Engineで行っております。</h4>
 
 ## 🛠️ プログラミングスキール</h2>
 <table>
