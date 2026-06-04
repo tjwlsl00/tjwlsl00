@@ -49,11 +49,11 @@
 
 ## 🎮 ビルダーデータ
 <p align="left">
-  <a href="여러분의_구글_드라이브_폴더_링크" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Google_Drive_icon_%282020%29.svg" width="24" height="24" style="vertical-align: middle; display: inline-block; margin-right: 4px;">
-    <strong style="vertical-align: middle;">グーグルドライブ</strong>
+  <a href="여러분의_구글_드라이브_폴더_링크" target="_blank" title="구글 드라이브로 이동">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/OneDrive_Folder_Icon.svg" width="32" height="32" style="vertical-align: middle; display: inline-block;">
   </a>
-  <span style="vertical-align: middle; margin-left: 12px;">
-    <kbd>v1.0.4</kbd> — <em>環境：Window11</em>
-  </span>
+  
+  <code style="vertical-align: middle; margin-left: 8px;">v1.2.0</code>
+  <span style="vertical-align: middle; margin-left: 10px; font-weight: bold;">구글 드라이브 리소스 폴더</span>
+  <span style="vertical-align: middle; margin-left: 8px; color: #8b949e;">(최신 빌드 파일 및 에셋 포함)</span>
 </p>
