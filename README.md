@@ -48,5 +48,12 @@
 <br>
 
 ## 🎮 ビルダーデータ
-https://drive.google.com/drive/folders/1kb0iHuFn1k9o6pTDgEFrWgXYZfPIo0iO?usp=drive_link
-
+<p align="left">
+  <a href="여러분의_구글_드라이브_폴더_링크" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Google_Drive_icon_%282020%29.svg" width="24" height="24" style="vertical-align: middle; display: inline-block; margin-right: 4px;">
+    <strong style="vertical-align: middle;">구글 드라이브 저장소</strong>
+  </a>
+  <span style="vertical-align: middle; margin-left: 12px;">
+    <kbd>v1.0.4</kbd> — <em>C# 스크립트 및 UI 에셋 백업 폴더</em>
+  </span>
+</p>
