@@ -53,7 +53,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/OneDrive_Folder_Icon.svg" width="32" height="32" style="vertical-align: middle; display: inline-block;">
   </a>
 
-  環境詳細
+  環境詳細<br>
   Unity<code style="vertical-align: middle; margin-left: 8px;">v6000.3.10f1</code><br>
   <span style="vertical-align: middle; margin-left: 10px; font-weight: bold;">WINDOW11</span>
 </p>
