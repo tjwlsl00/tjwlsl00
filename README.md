@@ -53,7 +53,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/OneDrive_Folder_Icon.svg" width="32" height="32" style="vertical-align: middle; display: inline-block;">
   </a>
   
-  <code style="vertical-align: middle; margin-left: 8px;">v1.2.0</code>
+  <code style="vertical-align: middle; margin-left: 8px;">v1.2.0</code><br>
   <span style="vertical-align: middle; margin-left: 10px; font-weight: bold;">구글 드라이브 리소스 폴더</span>
   <span style="vertical-align: middle; margin-left: 8px; color: #8b949e;">(최신 빌드 파일 및 에셋 포함)</span>
 </p>
