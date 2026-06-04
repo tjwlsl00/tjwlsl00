@@ -10,7 +10,7 @@
 
 <br>
 
-## 🛠️ プログラミングスキール</h2>
+## 🛠️ プログラミングスキール
 <table>
   <tr>
     <td align="center"><b>🚀主（ゲーム開発）</b></td>
@@ -31,7 +31,7 @@
 </table>
 <br/>
 
-##:open_book: プロジェクト詳細
+## 📖プロジェクト詳細
 
 - **[助けて、プルン！](https://github.com/tjwlsl00/Tasukete-Purun)**
 
