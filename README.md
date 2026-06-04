@@ -48,6 +48,5 @@
 <br>
 
 ## 🎮 ビルダーデータ
-[드라이브로 바로 이동하려면 여기를 누르세요 👉 [![Google Drive](https://img.shields.io/badge/-Google%20Drive-v?style=flat&logo=googledrive)](여러분의_구글_드라이브_링크_주소) <kbd>Ctrl</kbd> + <kbd>Click</kbd>](https://drive.google.com/uc?export=download&confirm=t&id=파일_고유_ID)
-
+https://drive.google.com/drive/folders/1kb0iHuFn1k9o6pTDgEFrWgXYZfPIo0iO?usp=drive_link
 
