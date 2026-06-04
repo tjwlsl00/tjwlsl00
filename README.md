@@ -48,9 +48,6 @@
 <br>
 
 ## 🎮 ビルダーデータ
-<a href="여러분의_구글_드라이브_링크_주소" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Google_Drive_icon_%282020%29.svg" width="40" height="40" alt="Google Drive" style="vertical-align: middle;">
-  <strong>[📂 프로젝트 자료실 구글 드라이브 바로가기]</strong>
-</a>
+드라이브로 바로 이동하려면 여기를 누르세요 👉 [![Google Drive](https://img.shields.io/badge/-Google%20Drive-v?style=flat&logo=googledrive)](여러분의_구글_드라이브_링크_주소) <kbd>Ctrl</kbd> + <kbd>Click</kbd>
 
 
