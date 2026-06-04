@@ -49,11 +49,12 @@
 
 ## 🎮 ビルダーデータ
 <p align="left">
-  <a href="여러분의_구글_드라이브_폴더_링크" target="_blank" title="구글 드라이브로 이동">
+  <a href="https://drive.google.com/drive/folders/1kb0iHuFn1k9o6pTDgEFrWgXYZfPIo0iO?usp=drive_link" target="_blank" title="구글 드라이브 폴더로 이동">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/OneDrive_Folder_Icon.svg" width="32" height="32" style="vertical-align: middle; display: inline-block;">
   </a>
-
-  環境詳細<br>
-  Unity<code style="vertical-align: middle; margin-left: 8px;">v6000.3.10f1</code><br>
-  <span style="vertical-align: middle; margin-left: 10px; font-weight: bold;">WINDOW11</span>
+  
+  <span style="vertical-align: middle; margin-left: 10px; font-weight: bold; color: #8b949e;">[환경 상세]</span>
+  <span style="vertical-align: middle; margin-left: 8px; font-weight: bold;">Unity</span>
+  <code style="vertical-align: middle; margin-left: 4px;">v6000.3.10f1</code>
+  <span style="vertical-align: middle; margin-left: 10px; font-weight: bold; color: #238636;">Windows 11</span>
 </p>
