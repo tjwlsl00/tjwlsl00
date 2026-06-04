@@ -52,9 +52,3 @@
   <a href="https://drive.google.com/drive/folders/1kb0iHuFn1k9o6pTDgEFrWgXYZfPIo0iO?usp=drive_link" target="_blank" title="구글 드라이브 폴더로 이동" style="display: flex; align-items: center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/OneDrive_Folder_Icon.svg" width="32" height="32" style="display: block;">
   </a>
-  
-  <span style="font-weight: bold; color: #8b949e; margin-left: 2px;">[開発環境]</span>
-  <span style="font-weight: bold;">Unity</span>
-  <code>v6000.3.10f1</code>
-  <span style="font-weight: bold; color: #238636; margin-left: 2px;">Windows 11</span>
-</div>
