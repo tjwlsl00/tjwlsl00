@@ -31,7 +31,7 @@
 </table>
 <br/>
 
-## 🎮 プロジェクト
+##:open_book: プロジェクト詳細
 
 - **[助けて、プルン！](https://github.com/tjwlsl00/Tasukete-Purun)**
 
@@ -43,4 +43,8 @@
 
 - **[廃虚の王座](https://github.com/tjwlsl00/Throne-of-Ruins)**
 
-- **[ママが見ている](https://github.com/tjwlsl00/mamaga-miteiru)** 
+- **[ママが見ている](https://github.com/tjwlsl00/mamaga-miteiru)**
+
+## 🎮 プロジェクトファイルビルダーデータ
+
+
