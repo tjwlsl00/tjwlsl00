@@ -46,7 +46,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b３Dモデリング</b></td>
+    <td align="center"><b>３Dモデリング</b></td>
     <td>
         Meshy AI
     </td>
