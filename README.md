@@ -42,10 +42,15 @@
   <tr>
     <td align="center"><b>効果音</b></td>
     <td>
+        ElevenLabs
     </td>
-      <td align="center"><b>３D素材</b></td>
+  </tr>
+  <tr>
+    <td align="center"><b３Dモデリング</b></td>
     <td>
+        Meshy AI
     </td>
+  </tr>
   </tr>
 </table>
 <br/>
