@@ -42,7 +42,7 @@
   <tr>
     <td align="center"><b>効果音</b></td>
     <td>
-        ElevenLabs
+        ElevenLabs、YouTubeフリー素材
     </td>
   </tr>
   <tr>
