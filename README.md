@@ -48,7 +48,7 @@
   <tr>
     <td align="center"><b>３Dモデリング</b></td>
     <td>
-        Meshy AI
+        Meshy AI、Mixamo
     </td>
   </tr>
   </tr>
