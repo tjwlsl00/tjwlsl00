@@ -34,13 +34,13 @@
 ## 🛠️ 利用ツール
 <table>
   <tr>
-    <td align="center"><b>UI</b></td>
+    <td align="center"><b>UI製作</b></td>
     <td>
         Google Gemini
     </td>
   </tr>
   <tr>
-    <td align="center"><b>ナレーション、効果音</b></td>
+    <td align="center"><b>音響制作/b></td>
     <td>
         ElevenLabs
     </td>
