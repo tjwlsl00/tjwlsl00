@@ -40,7 +40,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>音響制作/b></td>
+    <td align="center"><b>音響制作</b></td>
     <td>
         ElevenLabs
     </td>
