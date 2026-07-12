@@ -36,7 +36,7 @@
   <tr>
     <td align="center"><b>UI製作</b></td>
     <td>
-        Google Gemini
+        Google Gemini、PhotoShop
     </td>
   </tr>
   <tr>
