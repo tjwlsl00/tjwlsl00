@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=初めまして！" width="100%" />
-
 ## 💻 プログラミング技術
 <table>
   <tr>
