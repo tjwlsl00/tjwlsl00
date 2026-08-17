@@ -22,13 +22,13 @@
 ## 🛠️ 利用ツール
 <table>
   <tr>
-    <td align="center"><b>UI製作</b></td>
+    <td align="center"><b>UI</b></td>
     <td>
         Google Gemini、PhotoShop
     </td>
   </tr>
   <tr>
-    <td align="center"><b>音響制作</b></td>
+    <td align="center"><b>音響</b></td>
     <td>
         ElevenLabs
     </td>
