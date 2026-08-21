@@ -34,7 +34,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>３Dモデリング</b></td>
+    <td align="center"><b>モデリング</b></td>
     <td>
         Blender、Meshy AI、Mixamo
     </td>
